@@ -9,7 +9,7 @@ This application provides a form for users to submit their personal details incl
 - The user is required to enter their name.
 - The input cannot be left empty. A prompt will notify the user to fill in this field if left blank.
 
-![Name Input Image](./assets/img11.jpg)
+![Name Input Image](./assets/img1.jpg)
 
 ### 2. **Age Input**
 - The user is required to input their **Age** in numbers.
@@ -17,7 +17,7 @@ This application provides a form for users to submit their personal details incl
 - The field cannot be left empty.
 - If the user tries to submit the form with a non-numeric value, a validation error message will appear.
 
-![Age Input Image](./assets/img14.jpg)
+![Age Input Image](./assets/img4.jpg)
 
 ### 3. **Salary Input**
 - The user is required to input their **Salary** in numbers.
@@ -25,7 +25,7 @@ This application provides a form for users to submit their personal details incl
 - The field cannot be left empty.
 - If a non-numeric value is entered, a validation error will notify the user.
 
-![Salary Input Image](./assets/img13.jpg)
+![Salary Input Image](./assets/img3.jpg)
 
 ## Validation Rules
 - All fields (**Name**, **Age**, and **Salary**) must be filled out correctly before submission.
@@ -33,7 +33,7 @@ This application provides a form for users to submit their personal details incl
 - **Age** and **Salary** should only contain numerical values.
 - If the user tries to submit empty fields or enters invalid data, a respective validation error message will be displayed.
 
-![Salary Input Image](./assets/img12.jpg)
+![Salary Input Image](./assets/img2.jpg)
 
 ## Instructions for Users
 
